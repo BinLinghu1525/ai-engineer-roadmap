@@ -1,0 +1,8 @@
+[project]
+name = "explainable-rag-baseline"
+version = "0.1.0"
+description = "A zero-dependency, inspectable hybrid RAG learning baseline"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

@@ -28,3 +28,7 @@
 - Measure retrieval separately from generation quality.
 - Explain component choices, trade-offs, and observed failure modes.
 - Document evaluation data, configuration, results, and limitations.
+
+## Current evidence
+
+- [`explainable_rag`](explainable_rag/) — zero-dependency hybrid retrieval baseline with visible BM25/TF-IDF/RRF scores, cited evidence, a labeled evaluation set, and automated tests.

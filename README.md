@@ -66,6 +66,8 @@ Each module README defines learning goals, topics, practice tasks, and evidence-
 - Module 01 — Python Engineering: **In Progress**
 - Week 1 evidence: [`mini_agent`](01_python_engineering/mini_agent/) with
   documented experiment data and automated tests
+- RAG baseline: [`explainable_rag`](06_rag/explainable_rag/) with inspectable
+  hybrid retrieval, evidence citations, and retrieval evaluation
 - Modules 02–10: **Planned**
 - Portfolio projects: **Planned**
 

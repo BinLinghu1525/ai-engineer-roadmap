@@ -1,0 +1,8 @@
+[
+  {"id": "chunk-size", "query": "Chunk 太大或太小分别有什么问题？", "relevant_documents": ["chunking"]},
+  {"id": "bm25", "query": "BM25 为什么适合错误码和精确关键词？", "relevant_documents": ["retrieval"]},
+  {"id": "rrf", "query": "RRF 为什么不直接融合原始分数？", "relevant_documents": ["retrieval"]},
+  {"id": "mrr", "query": "MRR 如何奖励靠前的相关证据？", "relevant_documents": ["evaluation"]},
+  {"id": "failure-layer", "query": "如何区分检索失败和生成失败？", "relevant_documents": ["generation", "evaluation"]},
+  {"id": "citation", "query": "有引用是否就代表答案一定正确？", "relevant_documents": ["generation"]}
+]
