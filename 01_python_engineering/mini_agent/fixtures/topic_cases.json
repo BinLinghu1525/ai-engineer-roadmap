@@ -1,0 +1,27 @@
+[
+  {
+    "id": "normal-lowercase",
+    "input": "python agent",
+    "expected": "Today we learn: python agent"
+  },
+  {
+    "id": "trim-and-normalize",
+    "input": "  PYTHON agent  ",
+    "expected": "Today we learn: python agent"
+  },
+  {
+    "id": "unicode-topic",
+    "input": "  Agent 状态管理  ",
+    "expected": "Today we learn: agent 状态管理"
+  },
+  {
+    "id": "blank-topic",
+    "input": "   ",
+    "expected_error": "ValueError"
+  },
+  {
+    "id": "wrong-type",
+    "input": 123,
+    "expected_error": "TypeError"
+  }
+]

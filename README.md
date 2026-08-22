@@ -64,6 +64,8 @@ Each module README defines learning goals, topics, practice tasks, and evidence-
 
 - Repository foundation and learning roadmap: **In Progress**
 - Module 01 — Python Engineering: **In Progress**
+- Week 1 evidence: [`mini_agent`](01_python_engineering/mini_agent/) with
+  documented experiment data and automated tests
 - Modules 02–10: **Planned**
 - Portfolio projects: **Planned**
 

@@ -28,3 +28,11 @@
 - Build a readable multi-module Python program without hidden configuration.
 - Run and interpret its tests, including expected failure cases.
 - Document setup, usage, design decisions, and limitations.
+
+## Current evidence
+
+- [`mini_agent`](mini_agent/) — a multi-module learning application with
+  explicit state, input contracts, a JSON experiment dataset, and pytest tests.
+- [`Week 1 learning notes`](../notes/week-01-python-engineering.md) — concise
+  explanations of entry points, call chains, state, exceptions, side effects,
+  and the AI-assisted Git workflow.
